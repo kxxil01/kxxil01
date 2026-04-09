@@ -1,6 +1,6 @@
 # Kurniadi Ilham
 
-DevSecOps & Platform Engineer from Jakarta.
+DevSecOps & Platform Engineer from Jakarta, Indonesia.
 
 Building secure infrastructure and sharp developer tools.
 
