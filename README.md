@@ -4,6 +4,6 @@ DevSecOps & Platform Engineer from Jakarta, Indonesia.
 
 Building secure infrastructure and sharp developer tools.
 
-`Go` `Rust` `Python` `TypeScript` `Kubernetes` `Terraform`
+`Go` `Rust` `Python` `TypeScript`
 
 [website](https://kurniadi-ilham.dev) · [linkedin](https://www.linkedin.com/in/kurniadi-ilham/)
