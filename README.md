@@ -2,7 +2,7 @@
 
 Tech wizard from Jakarta, Indonesia.
 
-I break production on Fridays and mass message on-call "it's a feature." Mass deploying YAML into the void, mass automating myself out of a job, and mass pretending my monitoring dashboards aren't on fire. If it scales, ships, and doesn't page me at 3am — I call that a win.
+Professional YAML whisperer and accidental chaos engineer. I make servers behave, pipelines go brrr, and dashboards look green — mostly. If it's broken, I probably automated it. If it's working, don't touch it.
 
 `Automation` `Platform Engineering` `Monitoring` `Security` `Developer Tools`
 
