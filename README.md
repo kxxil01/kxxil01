@@ -2,7 +2,7 @@
 
 Tech wizard from Jakarta, Indonesia.
 
-I turn messy tech puzzles into smooth, scalable systems — from infrastructure and automation to CI/CD and monitoring. Part problem-solver, part chaos-wrangler. I build secure, reliable platforms and break things in spectacular fashion… then fix them like it was all part of the plan.
+I break production on Fridays and mass message on-call "it's a feature." Mass deploying YAML into the void, mass automating myself out of a job, and mass pretending my monitoring dashboards aren't on fire. If it scales, ships, and doesn't page me at 3am — I call that a win.
 
 `Automation` `Platform Engineering` `Monitoring` `Security` `Developer Tools`
 
