@@ -1,10 +1,9 @@
 # Kurniadi Ilham
 
-DevSecOps & Platform Engineer. Jakarta, Indonesia.
+DevSecOps & Platform Engineer from Jakarta.
 
-I design secure, scalable infrastructure and build developer tools.
+Building secure infrastructure and sharp developer tools.
 
-**Go · Rust · Python · TypeScript · Swift · Kubernetes · Terraform · AWS · GCP**
+`Go` `Rust` `Python` `TypeScript` `Kubernetes` `Terraform` `AWS`
 
-[![Website](https://img.shields.io/badge/kurniadi--ilham.dev-blue?style=flat-square)](https://kurniadi-ilham.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kurniadi-ilham/)
+[website](https://kurniadi-ilham.dev) · [linkedin](https://www.linkedin.com/in/kurniadi-ilham/)
