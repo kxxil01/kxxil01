@@ -2,7 +2,7 @@
 
 Tech wizard from Jakarta, Indonesia.
 
-Professional YAML whisperer and accidental chaos engineer. I make servers behave, pipelines go brrr, and dashboards look green — mostly. If it's broken, I probably automated it. If it's working, don't touch it.
+I talk to machines so you don't have to. Building things that scale, securing things that shouldn't be exposed, and googling error messages at an elite level. My code works — it just needs a few deploys to prove it.
 
 `Automation` `Platform Engineering` `Monitoring` `Security` `Developer Tools`
 
