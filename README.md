@@ -1,7 +1,5 @@
-# Kurniadi Ilham
+Tech Wizard, Digital Janitor, Toolsmith — Jakarta, Indonesia.
 
-Tech wizard from Jakarta — I talk to machines so you don't have to. My code works, it just needs a few deploys to prove it.
-
-`Automation` `Platform Engineering` `Monitoring` `Security` `Developer Tools`
-
-[website](https://kurniadi-ilham.dev) · [linkedin](https://www.linkedin.com/in/kurniadi-ilham/)
+[![Website](https://img.shields.io/badge/kurniadi--ilham.dev-000?style=flat-square&logo=safari&logoColor=white)](https://kurniadi-ilham.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurniadi-ilham/)
+[![Email](https://img.shields.io/badge/hello@kurniadi--ilham.dev-000?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@kurniadi-ilham.dev)
